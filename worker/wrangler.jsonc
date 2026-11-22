@@ -1,0 +1,11 @@
+{
+  "name": "campus-fitness-sync-aurora108",
+  "main": "index.js",
+  "compatibility_date": "2026-11-01",
+  "vars": {
+    "SITE_URL": "https://aurora108.github.io/campus-fitness/",
+    "GITHUB_OWNER": "Aurora108",
+    "GITHUB_USER_ID": "131163979",
+    "DATA_REPO": "campus-fitness-data"
+  }
+}
